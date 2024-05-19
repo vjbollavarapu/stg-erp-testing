@@ -1,1 +1,1 @@
-# stg-erp-testing
+# STG Developed Application development
